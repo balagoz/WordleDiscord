@@ -10,6 +10,7 @@
   "dependencies": {
     "canvas": "^2.9.0",
     "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
     "fx": "^20.0.2",
     "jquery-csv": "^1.0.21"
   },
